@@ -15,12 +15,14 @@ A simple P2P video calling app made using *[Flutter](https://flutter.dev/)* that
 </br>
 
 
-| Solarized dark        |  Solarized Ocean      |          Third       |       Fourth         |
-| :--------------------:|:---------------------:|:--------------------:|:---------------------:|
-| ![](screenshots/webRTC.png)  |  ![](screenshots/webRTC.png) | ![](screenshots/webRTC.png)  |  ![](screenshots/webRTC.png)|
 
+|                              |                              |                              |                       |
+| :---------------------------:|:----------------------------:|:----------------------------:|:---------------------:|
+| ![](screenshots/image1.png)  |  ![](screenshots/image2.png) | ![](screenshots/image3.png)  |  ![](screenshots/image4.png)|
 
-    
+Made using _Previewed [^1]_
+
+[^1]: https://previewed.app/template/CFA62417
 
 
 </br>
@@ -305,23 +307,19 @@ _Please ensure you have an active internet connection first._
 The app is realy simple, once you start it you should be greeted with the home screen :
  
 <p align="center">
-  <img width="700" align="center" src=".github_usercontent/javaw_MLv45cfaR4.png" alt="Start screen"/>
+  <img width="400" height="600" align="center" src="screenshots/Home Screen.jpeg" alt="Home screen"/>
 </p>
 
 You can either join a room or create one your self. 
 
-If you decide to create one your self you will ve taken to a second screen : 
+If you decide to create one your self you will ve taken to a second screen.
 
 _Note than you must give camera and audio permission for the  app to work._
-
-<p align="center">
-  <img width="700" align="center" src=".github_usercontent/javaw_MLv45cfaR4.png" alt="Start screen"/>
-</p>
 
 After giving your permission you should see your self via the front camera :
 
 <p align="center">
-  <img width="700" align="center" src=".github_usercontent/javaw_MLv45cfaR4.png" alt="Start screen"/>
+  <img width="400" height="600" align="center" src="screenshots/Create Room.jpeg" alt="Create Room Screen"/>
 </p>
 
 Now you just have to click on the _'Call'_ button, which will automaticlly generate a roomId for you :
@@ -332,13 +330,13 @@ Copy this id and give it to the person that you wish to call. You can just proce
 On the other end, a web browser for example. Open the 'Join Room' screen and paste the roomID :
 
 <p align="center">
-  <img width="700" align="center" src=".github_usercontent/javaw_MLv45cfaR4.png" alt="Start screen"/>
+  <img width="400" height="600" align="center" src="screenshots/Join Room.jpeg" alt="Join Room Screen"/>
 </p>
 
 After you click _'Join'_ button , you should be taken to the meeting room directlly :
 
 <p align="center">
-  <img width="700" align="center" src=".github_usercontent/javaw_MLv45cfaR4.png" alt="Start screen"/>
+  <img width="400" height="600" align="center" src="screenshots/Meeting Room.png" alt="Meeting Room Screen"/>
 </p>
 
 At this point the connection should be eestablished and you should be able to hear and see each other.
