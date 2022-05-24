@@ -6,13 +6,12 @@ A simple P2P video calling app made using *[Flutter](https://flutter.dev/)* that
 [![License](https://img.shields.io/badge/License-MIT-lightgray.svg?style=flat-square)](https://spdx.org/licenses/MIT.html)
 [![Latest release](http://img.shields.io/badge/beta-0.1.0-blue.svg?style=flat-square)](./)
 
-
-|                              |                              |                              |                       |
-| :---------------------------:|:----------------------------:|:----------------------------:|:---------------------:|
-| <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="60"/> </a>   |  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="60"/> </a>| <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="flutter" width="100" height="60"/> </a> |  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="flutter" width="100" height="60"/> </a>|
-
-
-
+<p align="center">
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="flutter" width="100" height="60"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="60"/> </a>   
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="60"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="flutter" width="100" height="60"/> </a> 
+</p>
 
 
 
@@ -35,9 +34,9 @@ Made using _Previewed [^1]_
 
 This is little demo between two chrome windows. It is recorded at 30 fps and the device was lagging so it's not all that smooth.
 
-<!-- <p align="center">
+<p align="center">
   <img width="800" height="400" align="center" src="screenshots/demonstration.gif" alt="Project Directory Structure"/>
-</p> -->
+</p>
 
 </br>
 
