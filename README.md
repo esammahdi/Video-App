@@ -6,11 +6,15 @@ A simple P2P video calling app made using *[Flutter](https://flutter.dev/)* that
 [![License](https://img.shields.io/badge/License-MIT-lightgray.svg?style=flat-square)](https://spdx.org/licenses/MIT.html)
 [![Latest release](http://img.shields.io/badge/beta-0.1.0-blue.svg?style=flat-square)](./)
 
-<!-- **Tools :**   -->
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="60"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="60"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="flutter" width="100" height="60"/> </a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="flutter" width="100" height="60"/> </a>
+
+|                              |                              |                              |                       |
+| :---------------------------:|:----------------------------:|:----------------------------:|:---------------------:|
+| <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="60"/> </a>   |  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="60"/> </a>| <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="flutter" width="100" height="60"/> </a> |  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="flutter" width="100" height="60"/> </a>|
+
+
+
+
+
 
 </br>
 
@@ -235,11 +239,7 @@ participants can access the streams reliably and you won’t bog down their devi
 
 Installation
 ------------
-First, you should  download or clone the repository. The directory structure should look like this :
-
-<p align="center">
-  <img width="700" align="center" src=".github_usercontent/Directory.png" alt="Project Directory Structure"/>
-</p>
+First, you should  download or clone the repository.
  
  The app uses FireStore to exchange the offer/answer informations as well as the ICE candidates. So you must have a firebase project that has FireStore Database enabled.
 
@@ -307,7 +307,7 @@ _Please ensure you have an active internet connection first._
 The app is realy simple, once you start it you should be greeted with the home screen :
  
 <p align="center">
-  <img width="400" height="600" align="center" src="screenshots/Home Screen.jpeg" alt="Home screen"/>
+  <img width="300" height="500" align="center" src="screenshots/Home Screen.jpeg" alt="Home screen"/>
 </p>
 
 You can either join a room or create one your self. 
@@ -319,7 +319,7 @@ _Note than you must give camera and audio permission for the  app to work._
 After giving your permission you should see your self via the front camera :
 
 <p align="center">
-  <img width="400" height="600" align="center" src="screenshots/Create Room.jpeg" alt="Create Room Screen"/>
+  <img width="300" height="500" align="center" src="screenshots/Create Room.jpeg" alt="Create Room Screen"/>
 </p>
 
 Now you just have to click on the _'Call'_ button, which will automaticlly generate a roomId for you :
@@ -330,13 +330,13 @@ Copy this id and give it to the person that you wish to call. You can just proce
 On the other end, a web browser for example. Open the 'Join Room' screen and paste the roomID :
 
 <p align="center">
-  <img width="400" height="600" align="center" src="screenshots/Join Room.jpeg" alt="Join Room Screen"/>
+  <img width="300" height="500" align="center" src="screenshots/Join Room.jpeg" alt="Join Room Screen"/>
 </p>
 
 After you click _'Join'_ button , you should be taken to the meeting room directlly :
 
 <p align="center">
-  <img width="400" height="600" align="center" src="screenshots/Meeting Room.png" alt="Meeting Room Screen"/>
+  <img width="300" height="500" align="center" src="screenshots/Meeting Room.png" alt="Meeting Room Screen"/>
 </p>
 
 At this point the connection should be eestablished and you should be able to hear and see each other.
