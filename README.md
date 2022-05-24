@@ -34,6 +34,8 @@ Made using _Previewed [^1]_
 
 This is little demo between two chrome windows. It is recorded at 30 fps and the device was lagging so it's not all that smooth.
 
+<sub> _You may wait a little before the gif loads depending on your internet connection_</sub>
+
 <p align="center">
   <img width="800" height="400" align="center" src="screenshots/demonstration.gif" alt="Project Directory Structure"/>
 </p>
