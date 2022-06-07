@@ -1,7 +1,7 @@
 VideoApp: A Flutter WebRTC P2P Video Calling App
 =================================================
 
-A simple P2P video calling app made using *[Flutter](https://flutter.dev/)* that supports calling from browser to browser, phone to phone, browser to phone and opposite. It aims to demonstrate [WebRTC Protocol]() baiscs.
+A simple P2P video calling app made using *[Flutter](https://flutter.dev/)* that supports calling from browser to browser, phone to phone, browser to phone and vice versa. It aims to demonstrate [WebRTC Protocol]() basics.
 
 [![License](https://img.shields.io/badge/License-MIT-lightgray.svg?style=flat-square)](https://spdx.org/licenses/MIT.html)
 [![Latest release](http://img.shields.io/badge/beta-0.1.0-blue.svg?style=flat-square)](./)
